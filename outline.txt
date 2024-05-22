@@ -17,3 +17,4 @@
 16. Table
 
 For onetime.Edit in feature2 then marge with master.
+Logo alignment centered.
